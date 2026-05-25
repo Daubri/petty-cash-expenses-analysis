@@ -1,8 +1,6 @@
-## Dashboard Preview
+![Petty Cash Dashboard](Petty Expenses Dashboard.png)
 
-![Petty Cash Dashboard](Petty Expenses Dashboard.png)# Petty Cash Expense Analysis Dashboard
-
-## Project Overview
+## Project Overview!
 This project focuses on analyzing operational petty cash expenses from 2024–2025 using Excel.
 
 The aim of the analysis was to transform raw operational expense records into meaningful business insights that can support better financial decision-making and expense monitoring.
